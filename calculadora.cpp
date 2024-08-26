@@ -5,6 +5,8 @@ using namespace std;
 class Calculator{ 
         public: 
                 int add(int a, int b); 
+        private:
+
 }; 
  
 int Calculator::add(int a, int b){ 

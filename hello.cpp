@@ -7,7 +7,7 @@ class Greeting{
 };
 
 void Greeting::say_hello() const{
-	cout << "Hello, world!" << endl; // return "Hello, world!";
+	cout << "Hello world!" << endl; // return "Hello world!";
 }
 
 int main(){

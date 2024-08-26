@@ -14,4 +14,9 @@ voic Circle::area(double r){
 }
 
 int main(){
+  Circle circulo;
+  circulo.area(r);
+  
+  return 0;
+}
   
